@@ -1,4 +1,5 @@
 <template>
+  <!-- Todo: add translation to the texts once support added in dxp -->
 	<ion-card>
 		<ion-card-header> 
 			<ion-card-subtitle>
